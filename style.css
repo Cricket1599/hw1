@@ -1,0 +1,118 @@
+h2 {
+    text-align: center;
+}
+#j {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarouse2
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse3
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse3 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse4
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse4 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse5
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse5 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse6
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse6 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse7
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse7 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse8
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse9 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse10
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse10 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+#myCarouse11
+{
+    background-color: #b5d0d4;
+}
+
+#myCarouse11 img
+{
+    height: 300px;
+    margin-top: 35px;
+}
